@@ -11,15 +11,6 @@ Currently, I'm building my digital studio where I create websites, web applicati
   <img src="https://skillicons.dev/icons?i=react,laravel,js,php,tailwind,mysql,mongodb,git,github,figma,vscode" />
 </p>
 
-* React.js
-* Laravel
-* JavaScript
-* PHP
-* MySQL & MongoDB
-* Tailwind CSS
-* Git & GitHub
-* Figma
-
 ## 🌱 Currently Learning
 
 * AI Automation
