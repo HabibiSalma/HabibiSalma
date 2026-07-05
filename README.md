@@ -7,6 +7,9 @@ I enjoy building modern web applications with React.js and Laravel, while also e
 Currently, I'm building my digital studio where I create websites, web applications, and bring ideas to life.
 
 ## 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,laravel,js,php,tailwind,mysql,mongodb,git,github,figma,vscode" />
+</p>
 
 * React.js
 * Laravel
